@@ -1,4 +1,5 @@
 # Unity Shader Test
+### Repository for Unity shader example
 
 These are examples of various Unity shaders, coming from different sources (ShaderToy, Unity websites, tutorial, youtube videos and so on). It's basically learning material to explore how shaders work, not to use in production. They are developed and tested only with Unity Standard Rendering Pipeline.
 
