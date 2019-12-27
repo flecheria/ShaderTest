@@ -12,20 +12,20 @@ Open to questions, knowledge and contributions.
 ### References
 (not in particular order, you can find others within the code)
 
-Unity (of course)
-https://docs.unity3d.com/Manual/SL-Shader.html
-https://docs.unity3d.com/Manual/SL-Reference.html
-https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html
+Unity (of course)<br/>
+https://docs.unity3d.com/Manual/SL-Shader.html<br/>
+https://docs.unity3d.com/Manual/SL-Reference.html<br/>
+https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html<br/>
 
-ShaderToy (of course, of course)\n
+ShaderToy (of course, of course)<br/>
 https://www.shadertoy.com/
 
-GLSL Sandbox (of course, of course and of course. This is great for beginner, ShaderToy needs some technical capabilities)
+GLSL Sandbox (of course, of course and of course. This is great for beginner, ShaderToy needs some technical capabilities).<br/>
 http://glslsandbox.com/
 
-Course
-Shader Development from Scratch for Unity with Cg (Udemy)
-Very good course if you want to learn about shaders and graphics pipeline in Unity.
+Course<br/>
+Shader Development from Scratch for Unity with Cg (Udemy)<br/>
+Very good course if you want to learn about shaders and graphics pipeline in Unity.<br/>
 https://www.udemy.com/course/unity-shaders/
 
 Articles:
@@ -34,10 +34,10 @@ Articles:
 * https://unitylist.com/p/a38/Unity-Shader-Practice-Lab
 * https://answers.unity.com/questions/1174716/gradient-glow-shader.html
 
-How to convert a shader from ShaderToy to Unity
+How to convert a shader from ShaderToy to Unity<br/>
 https://www.youtube.com/watch?v=CzORVWFvZ28
 
-Writing a ray marcher in Unity
+Writing a ray marcher in Unity<br/>
 https://www.youtube.com/watch?v=S8AWd66hoCo
 
 ### License
