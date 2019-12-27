@@ -17,7 +17,7 @@ https://docs.unity3d.com/Manual/SL-Shader.html
 https://docs.unity3d.com/Manual/SL-Reference.html
 https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html
 
-ShaderToy (of course, of course)
+ShaderToy (of course, of course)\n
 https://www.shadertoy.com/
 
 GLSL Sandbox (of course, of course and of course. This is great for beginner, ShaderToy needs some technical capabilities)
