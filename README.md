@@ -1,4 +1,5 @@
 # Unity Shader Test
+
 ### Repository for Unity shader example
 
 These are examples of various Unity shaders, coming from different sources (ShaderToy, Unity websites, tutorial, youtube videos and so on). It's basically learning material to explore how shaders work, not to use in production. They are developed and tested only with Unity Standard Rendering Pipeline.
@@ -9,7 +10,14 @@ Shaderes are collected inside the path Flecheria/.../... etc.
 
 Open to questions, knowledge and contributions.
 
+### Notes
+
+Remember for reflection inside DevelopmentBasic scene to setup the default CubeMap for Environment Reflections:
+
+![cubemap](./images/0000.png)
+
 ### References
+
 (not in particular order, you can find others within the code)
 
 Unity (of course)<br/>
@@ -41,4 +49,5 @@ Writing a ray marcher in Unity<br/>
 https://www.youtube.com/watch?v=S8AWd66hoCo
 
 ### License
+
 MIT License (see License.txt)
