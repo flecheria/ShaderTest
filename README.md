@@ -37,6 +37,7 @@ Very good course if you want to learn about shaders and graphics pipeline in Uni
 https://www.udemy.com/course/unity-shaders/
 
 Articles:
+
 * http://thomsonteguh.com/wireframe-shader/
 * https://github.com/Scrawk/Wireframe-Shader
 * https://unitylist.com/p/a38/Unity-Shader-Practice-Lab
@@ -47,6 +48,24 @@ https://www.youtube.com/watch?v=CzORVWFvZ28
 
 Writing a ray marcher in Unity<br/>
 https://www.youtube.com/watch?v=S8AWd66hoCo
+
+### Final Result
+
+Noises
+
+![Noises](./images/noises.png)
+
+### Tutorial
+
+[Noise Generation Algorithms](https://www.bitshiftprogrammer.com/2018/01/noise-generation-algorithms-white-noise.html)  
+[Ronya Tutorial](https://www.ronja-tutorials.com/)  
+[Article 1](http://thomsonteguh.com/wireframe-shader/)  
+[Article 2](https://github.com/Scrawk/Wireframe-Shader)  
+[Article 3](https://unitylist.com/p/a38/Unity-Shader-Practice-Lab)  
+[Article 4](https://answers.unity.com/questions/1174716/gradient-glow-shader.html)  
+[Video tutorial 1](https://youtu.be/qDk-WIOYUSY)  
+[Video Tutorial 2](https://youtu.be/4AVc2YkOGtA)  
+[Video Tutorial 3](https://youtu.be/BrZ4pWwkpto)  
 
 ### License
 
