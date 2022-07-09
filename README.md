@@ -55,6 +55,10 @@ Noises
 
 ![Noises](./images/noises.png)
 
+### Unity ShaderNodes Tutorial
+
+[](https://www.youtube.com/watch?v=ipge1K51JJs)
+
 ### Tutorial
 
 [Noise Generation Algorithms](https://www.bitshiftprogrammer.com/2018/01/noise-generation-algorithms-white-noise.html)  
@@ -66,6 +70,15 @@ Noises
 [Video tutorial 1](https://youtu.be/qDk-WIOYUSY)  
 [Video Tutorial 2](https://youtu.be/4AVc2YkOGtA)  
 [Video Tutorial 3](https://youtu.be/BrZ4pWwkpto)  
+[CatWalking Compute Shader tutorial](https://catlikecoding.com/unity/tutorials/basics/compute-shaders/)  
+[](https://unityshit.blogspot.com/2021/08/compute-shaders-flock-with-instanced.html)  
+[](https://ciphrd.com/2019/08/24/reaction-diffusion-on-shader/)  
+[](https://apps.amandaghassaei.com/ReactionDiffusionShader/)  
+[](https://github.com/amandaghassaei/ReactionDiffusionShader)  
+[](https://unityshit.blogspot.com/2021/07/compute-shader-read-from-calculated.html)  
+[](https://github.com/keijiro/RDSystem)  
+[](https://awesomeopensource.com/projects/graphics/shaders/unity/unity3d)  
+[](https://github.com/IRCSS/MatrixVFX)  
 
 ### License
 
