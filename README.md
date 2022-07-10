@@ -20,40 +20,39 @@ Remember for reflection inside DevelopmentBasic scene to setup the default CubeM
 
 (not in particular order, you can find others within the code)
 
-Unity (of course)<br/>
-https://docs.unity3d.com/Manual/SL-Shader.html<br/>
-https://docs.unity3d.com/Manual/SL-Reference.html<br/>
-https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html<br/>
+Unity (of course):
 
-ShaderToy (of course, of course)<br/>
-https://www.shadertoy.com/
+[](https://docs.unity3d.com/Manual/SL-DataTypesAndPrecision.html)
+[](https://docs.unity3d.com/Manual/SL-Shader.html)
+[](https://docs.unity3d.com/Manual/SL-Reference.html)
+[](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
 
-GLSL Sandbox (of course, of course and of course. This is great for beginner, ShaderToy needs some technical capabilities).<br/>
-http://glslsandbox.com/
+[ShaderToy]((https://www.shadertoy.com/)) of course, of course.
 
-Course<br/>
-Shader Development from Scratch for Unity with Cg (Udemy)<br/>
-Very good course if you want to learn about shaders and graphics pipeline in Unity.<br/>
-https://www.udemy.com/course/unity-shaders/
+[GLSL Sandbox](http://glslsandbox.com/) (of course, of course and of course. This is great for beginner, ShaderToy needs some technical capabilities).
+
+[Shader Development from Scratch for Unity with Cg (Udemy)](https://www.udemy.com/course/unity-shaders/). ery good course if you want to learn about shaders and graphics pipeline in Unity.
 
 Articles:
 
-* http://thomsonteguh.com/wireframe-shader/
-* https://github.com/Scrawk/Wireframe-Shader
-* https://unitylist.com/p/a38/Unity-Shader-Practice-Lab
-* https://answers.unity.com/questions/1174716/gradient-glow-shader.html
+- http://thomsonteguh.com/wireframe-shader/
+- https://github.com/Scrawk/Wireframe-Shader
+- https://unitylist.com/p/a38/Unity-Shader-Practice-Lab
+- https://answers.unity.com/questions/1174716/gradient-glow-shader.html
 
-How to convert a shader from ShaderToy to Unity<br/>
-https://www.youtube.com/watch?v=CzORVWFvZ28
+[How to convert a shader from ShaderToy to Unity](https://www.youtube.com/watch?v=CzORVWFvZ28)
 
-Writing a ray marcher in Unity<br/>
-https://www.youtube.com/watch?v=S8AWd66hoCo
+[Writing a ray marcher in Unity](https://www.youtube.com/watch?v=S8AWd66hoCo)
 
 ### Final Result
 
 Noises
 
 ![Noises](./images/noises.png)
+
+Fish Moving
+
+![Fish Moving](./images/FishMoving.png)
 
 ### Unity ShaderNodes Tutorial
 
