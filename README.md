@@ -22,10 +22,12 @@ Remember for reflection inside DevelopmentBasic scene to setup the default CubeM
 
 Unity (of course):
 
-[](https://docs.unity3d.com/Manual/SL-DataTypesAndPrecision.html)
-[](https://docs.unity3d.com/Manual/SL-Shader.html)
-[](https://docs.unity3d.com/Manual/SL-Reference.html)
-[](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
+- [](https://docs.unity3d.com/Manual/SL-DataTypesAndPrecision.html)
+- [](https://docs.unity3d.com/Manual/SL-Shader.html)
+- [](https://docs.unity3d.com/Manual/SL-Reference.html)
+- [](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
+- [](https://docs.unity3d.com/Manual/SL-DataTypesAndPrecision.html)
+- [](https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html)
 
 [ShaderToy]((https://www.shadertoy.com/)) of course, of course.
 
@@ -60,7 +62,8 @@ Fish Moving
 
 ### Tutorial
 
-[Noise Generation Algorithms](https://www.bitshiftprogrammer.com/2018/01/noise-generation-algorithms-white-noise.html)  
+[Noise Generation Algorithms](https://www.bitshiftprogrammer.com/2018/01/noise-generation-algorithms-white-noise.html) 
+[Bitshift Tutorial](https://www.bitshiftprogrammer.com/p/shader-development-posts.html)   
 [Ronya Tutorial](https://www.ronja-tutorials.com/)  
 [Article 1](http://thomsonteguh.com/wireframe-shader/)  
 [Article 2](https://github.com/Scrawk/Wireframe-Shader)  
@@ -77,7 +80,10 @@ Fish Moving
 [](https://unityshit.blogspot.com/2021/07/compute-shader-read-from-calculated.html)  
 [](https://github.com/keijiro/RDSystem)  
 [](https://awesomeopensource.com/projects/graphics/shaders/unity/unity3d)  
-[](https://github.com/IRCSS/MatrixVFX)  
+[](https://github.com/IRCSS/MatrixVFX)
+[](https://www.behance.net/deskriptiv)
+[Cristopher Bader](https://derbader.co/)
+[Michael Hansmeyer](https://www.michael-hansmeyer.com/)  
 
 ### License
 
